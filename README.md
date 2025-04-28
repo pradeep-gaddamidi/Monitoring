@@ -5,6 +5,6 @@ It also creates supporting other monitoring resources such as GCS buckets, Stati
 
 Instructions:
 
-Terraform workspace set nonprod  
+Terraform workspace set nonprod-mon    
 terraform plan  
 terraform apply  
